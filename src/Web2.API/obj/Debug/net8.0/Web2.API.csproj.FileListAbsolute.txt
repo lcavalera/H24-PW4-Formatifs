@@ -23,3 +23,38 @@ D:\Luca-Cégep Limoilou\OneDrive - Cégep Limoilou\Documents\_Programmation Web 
 D:\Luca-Cégep Limoilou\OneDrive - Cégep Limoilou\Documents\_Programmation Web 4\Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.pdb
 D:\Luca-Cégep Limoilou\OneDrive - Cégep Limoilou\Documents\_Programmation Web 4\Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.genruntimeconfig.cache
 D:\Luca-Cégep Limoilou\OneDrive - Cégep Limoilou\Documents\_Programmation Web 4\Formatifs\src\Web2.API\obj\Debug\net8.0\ref\Web2.API.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.exe
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.deps.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.runtimeconfig.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.pdb
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.AssemblyInfo.cs
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.sourcelink.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets\msbuild.Web2.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web2.API.props
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web2.API.props
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web2.API.props
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\scopedcss\bundle\Web2.API.styles.css
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.csproj.CopyComplete
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\refint\Web2.API.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.pdb
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.genruntimeconfig.cache
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\ref\Web2.API.dll
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\bin\Debug\net8.0\Web2.API.xml
+C:\Users\Luca\Desktop\PW4-Formatifs\src\Web2.API\obj\Debug\net8.0\Web2.API.xml

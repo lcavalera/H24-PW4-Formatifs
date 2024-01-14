@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web2.API</name>
+    </assembly>
+    <members>
+        <member name="M:Web2.API.ProductController.Get">
+             <summary>
+             Retourne une liste des produits 
+             </summary>
+             <remarks>
+             
+                 GET api/products
+            
+             </remarks>
+             <response code="200">produits trouvés et retournés</response>
+             <response code="404">produits introuvables</response>
+             <response code="500">service indisponible pour le moment</response>
+             <returns></returns>
+        </member>
+        <member name="M:Web2.API.ProductController.GetbyId(System.Int32)">
+             <summary>
+             Retourne un produit spécifique à partir de son id
+             </summary>
+             <param name="id">id du produit à retourner</param>
+             <remarks>
+             
+                 GET /Product
+            
+             </remarks>
+             <response code="200">produit trouvé et retourné</response>
+             <response code="404">produit introuvable pour l'id spécifié</response>
+             <response code="500">service indisponible pour le moment</response>
+        </member>
+        <member name="M:Web2.API.ProductController.Post(Web2.API.Product)">
+             <summary>
+             Ajoute un produit à la base de donnée
+             </summary>
+             <param name="product">produit à ajouter</param>
+             <returns>Un neuveau produit a été créé</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /Product
+                 {
+                    "id": 1,
+                    "name": "nom du produit",
+                    "description": "description du produit"
+                 }
+            
+             </remarks>
+             <response code="201">produit ajouté avec succès</response>
+             <response code="200">traitement executé avec succès, contenu retourné</response>
+             <response code="204">traitement executé avec succès, aucune contenu retourné</response>
+             <response code="400">Model Invalide, mauvaise requête</response>
+             <response code="404">produit introuvable</response>
+             <response code="500">service indisponible pour le moment</response>
+        </member>
+        <member name="M:Web2.API.ProductController.Delete(System.Int32)">
+            <summary>
+            Supprime un produit
+            </summary>
+            <param name="id">id du produit à supprimer</param>
+            <response code="200">produit supprimé avec succès</response>
+            <response code="204">produit supprimé avec succès, aucune contenu retourné</response>
+            <response code="404">produit introuvable pour l'id spécifié</response>
+            <response code="500">service indisponible pour le moment</response>
+        </member>
+    </members>
+</doc>
